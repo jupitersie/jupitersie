@@ -16,7 +16,7 @@ My Hobbies are swimming 🏊 and challenge in hackathon. 👊.
 
 📫 You can also reach me at jupitersie.ks@gmail.com 😎
 
-Let's build some cool 👀 
+Let's build some cool project 👀 especially NFT !
 
 <!---
 jupitersie/jupitersie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
